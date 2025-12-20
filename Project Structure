@@ -1,0 +1,14 @@
+iot-ev-charging-station/
+│
+├── README.md
+├── circuit-diagram/
+│   └── ev_charging_circuit.png
+├── code/
+│   ├── arduino_code.ino
+│   └── esp8266_code.ino
+├── app/
+│   └── android_app_details.txt
+├── screenshots/
+│   └── app_ui.png
+└── documentation/
+    └── project_report.pdf
