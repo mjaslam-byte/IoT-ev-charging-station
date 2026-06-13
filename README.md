@@ -18,8 +18,5 @@ This project is an IoT-based Electric Vehicle Charging Station that allows users
 ## Working Principle
 The charging station is connected to the internet using WiFi. User requests from the mobile app are sent to the server, which communicates with the charging unit to control and monitor the charging process.
 
-## Screenshots
-(Add app and hardware images here)
-
 ## Conclusion
 This project provides a smart and efficient solution for managing EV charging stations using IoT technology.
